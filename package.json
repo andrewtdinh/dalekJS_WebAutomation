@@ -3,6 +3,7 @@
   "description": "Test driving DalekJS framework",
   "version": "0.0.1",
   "devDependencies": {
+    "dalek-browser-chrome": "0.0.11",
     "dalekjs": "0.0.9"
   }
 }
