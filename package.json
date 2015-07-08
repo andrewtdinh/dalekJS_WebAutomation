@@ -1,0 +1,8 @@
+{
+  "name": "mySampleProject",
+  "description": "Test driving DalekJS framework",
+  "version": "0.0.1",
+  "devDependencies": {
+    "dalekjs": "0.0.9"
+  }
+}
